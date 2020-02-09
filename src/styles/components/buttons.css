@@ -1,0 +1,64 @@
+.btn-primary{
+    @apply bg-pink-600 text-pink-100;
+  }
+  
+  .btn-primary:hover{
+    @apply bg-pink-700;
+  }
+  
+  .btn-secondary{
+    @apply bg-purple-600 text-purple-100;
+  }
+  
+  
+  .btn-secondary:hover{
+    @apply bg-purple-700
+  }
+  
+  .btn-success{
+    @apply bg-green-600 text-white;
+  }
+  
+  .btn-success:hover{
+    @apply bg-green-700;
+  }
+  
+  .btn-danger{
+    @apply bg-red-600 text-white;
+  }
+  
+  .btn-danger:hover{
+    @apply bg-red-700;
+  }
+  
+  .btn-warning{
+    @apply bg-orange-600 text-white;
+  }
+  
+  .btn-warning:hover{
+    @apply bg-orange-700;
+  }
+  
+  .btn-info{
+    @apply bg-blue-600 text-white;
+  }
+  
+  .btn-info:hover{
+    @apply bg-blue-700;
+  }
+  
+  .btn-light{
+    @apply bg-gray-100 text-black;
+  }
+  
+  .btn-light:hover{
+    @apply bg-gray-300;
+  }
+  
+  .btn-dark{
+    @apply bg-gray-900 text-white;
+  }
+  
+  .btn-dark:hover{
+    @apply bg-gray-800
+  }
